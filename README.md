@@ -4,7 +4,7 @@ For adv data S25
 Analysis of Revised 2020-2024 NYC Borough Labor Force Data
 This repository contains the raw data from NY State Dept of Labor on the New York City region employment rates by borough and my analysis using Google Sheets
 
-#Data
+# Data
 This analysis uses "Revised 2020-2024 Borough Labor Force Data" spreadsheets.
 
 The spreadsheets come from: https://dol.ny.gov/labor-statistics-new-york-city-region
@@ -18,7 +18,7 @@ Employed - Employed population in each borough, each month from 1/2020 to 12/202
 Unemployed	- Unemployed population in each borough, each month from 1/2020 to 12/2024
 Unemployment Rate - Percentage of unemployed eligible workers in each borough, each month from 1/2020 to 12/2024
 
-#Methodology
+# Methodology
 Using Google Sheets, I performed the following analyses:
 
 Step 1: Create "NYC-Wide" tab that summarizes data from all 5 boros				
@@ -35,7 +35,7 @@ Step 2: Finding trends in how different boroughs fared in the pandemic
 		(only Staten Island has ever recovered to Jan 2020 pre pandemic employment rate. Staten Island had a 4.0% unemployment rate in both 1/2020 and 4/2024. The borough ended 2024 with a 4.6% unemployment rate)	
 
 
-#Outputs
+# Output
 The linked .csv filed in this repository contain my analysis spreadsheet
 
 Running the analysis yourself:
