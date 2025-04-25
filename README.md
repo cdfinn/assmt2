@@ -36,7 +36,8 @@ Step 2: Finding trends in how different boroughs fared in the pandemic
 
 
 # Output
-The linked .csv filed in this repository contain my analysis spreadsheet
+A linked .csv filed in this repository contains a summary of my analysis in a single spreadsheet
+The full (and messy) Google Sheets file where I conducted my analysis can be found here, including a data diary: https://docs.google.com/spreadsheets/d/1FvhgOoe950-9o0ten1CsJWdOrdUx7gy6rE_aNxx2aKE/edit?usp=sharing
 
 Running the analysis yourself:
 You can run the analysis yourself using Google Sheets and standard functions
